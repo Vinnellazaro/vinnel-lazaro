@@ -1,8 +1,28 @@
-# React + Vite
+# Vinnel Lazaro Portfolio Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to my personal portfolio website! I'm a passionate **front-end developer** with a focus on crafting beautiful, responsive, and accessible user interfaces.
 
-Currently, two official plugins are available:
+## Technologies I Work With:
+- HTML5 / CSS3
+- JavaScript (ES6+)
+- React.js
+- SASS / Tailwind CSS
+- Git / GitHub
+- Responsive Design / Accessibility
+- APIs and JSON
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<!-- ## Projects:
+Here are some of my recent projects that showcase my skills:
+
+- **Project 1**: [Live Demo](#) | [Code](#)
+  - Brief description of the project.
+  
+- **Project 2**: [Live Demo](#) | [Code](#)
+  - Brief description of the project. -->
+
+## Get in Touch:
+- [LinkedIn](https://www.linkedin.com/in/vinnel-lazaro)
+- [Email](mailto:vinnellazarus@gmail.com)
+
+Feel free to explore my work, and I’m always open to collaboration or discussing new opportunities!
+
