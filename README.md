@@ -6,7 +6,7 @@ Welcome to my personal portfolio website! I'm a passionate **front-end developer
 - HTML5 / CSS3
 - JavaScript (ES6+)
 - React.js
-- SASS / Tailwind CSS
+- React Bootstrap
 - Git / GitHub
 - Responsive Design / Accessibility
 - APIs and JSON

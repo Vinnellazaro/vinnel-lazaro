@@ -1,4 +1,5 @@
-:root {
+
+/* :root {
   font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
   line-height: 1.5;
   font-weight: 400;
@@ -65,42 +66,4 @@ button:focus-visible {
   button {
     background-color: #f9f9f9;
   }
-}
-
-
-.loading-message {
-  font-size: 24px;
-  color: #333;
-  margin-bottom: 20px;
-  opacity: 0;
-  animation: fadeIn 1s forwards;
-}
-@keyframes fadeIn {
-  0% {
-      opacity: 0;
-      transform: translateY(-20px);
-  }
-  100% {
-      opacity: 1;
-      transform: translateY(0);
-  }
-}
-.progress-container {
-  width: 100%;
-  max-width: 600px;
-  background-color: #e0e0e0;
-  border-radius: 20px;
-  overflow: hidden;
-  position: relative;
-}
-.progress-bar {
-  height: 20px;
-  width: 0;
-  background-color: #76c7c0;
-  border-radius: 20px;
-  animation: loading 4s linear forwards;
-}
-@keyframes loading {
-  0% { width: 0; }
-  100% { width: 100%; }
-}
+} */
