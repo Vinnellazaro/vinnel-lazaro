@@ -1,6 +1,6 @@
 
 import Container from 'react-bootstrap/Container';
-import './navigationbar.css'
+import '../styles/NavigationBar.css'
 import Nav from 'react-bootstrap/Nav';
 import Navbar from 'react-bootstrap/Navbar';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
@@ -15,7 +15,7 @@ function NavigationBar() {
         <Navbar.Collapse id="responsive-navbar-nav">
           <Nav className="ms-auto">
             <Nav.Link href="#features">Home</Nav.Link>
-            <Nav.Link href="#About">About</Nav.Link>
+            <Nav.Link href="#About">About Me</Nav.Link>
             <Nav.Link href="#Project">Project</Nav.Link>
             <Nav.Link href="#Contact">Contact</Nav.Link>
             {/* <NavDropdown title="Dropdown" id="collapsible-nav-dropdown">

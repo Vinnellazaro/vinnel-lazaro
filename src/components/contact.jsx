@@ -2,7 +2,7 @@ import Container from 'react-bootstrap/Container';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faEnvelope,faLocationDot } from '@fortawesome/free-solid-svg-icons';
 import { faLinkedin,faFacebook,faGithub } from '@fortawesome/free-brands-svg-icons';
-export default function contact() {
+export default function Contact() {
   return (
     <Container>
       <div className='d-flex flex-xl-row flex-lg-row flex-md-column flex-column align-items-center pt-5 pb-5 text-secondary'>
