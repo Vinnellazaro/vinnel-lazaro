@@ -1,3 +1,4 @@
+import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import Navbar from './components/NavigationBar'
 import ImageBanner from './components/ImageBanner'
@@ -11,16 +12,24 @@ function App() {
   //const [count, setCount] = useState(0)
 
   return (
-    <>
-    <Navbar/>
-    <ImageBanner></ImageBanner>
-    <AboutMe></AboutMe>
-    <Skills></Skills>
-    <Contact></Contact>
-    <div className="bg-dark text-white w-100 vh-100">
-      <Inprogress></Inprogress>
-    </div>
-    </>
+     <Router basename="/vinnel-lazaro">
+      <Routes>
+        <Route path="/" element={
+          <div className="bg-animation">
+            <Inprogress></Inprogress>
+          </div>
+        } />
+        <Route path="/portfolio" element={
+            <>
+              <Navbar/>
+              <ImageBanner/>
+              <AboutMe/>
+              <Skills/>
+              <Contact/>
+            </>
+          } />
+      </Routes>
+    </Router>
   );
 }
 
