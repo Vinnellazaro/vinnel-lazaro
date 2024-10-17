@@ -8,3 +8,6 @@
     position: relative;
     top: 4px;
 }
+.bg-transparent {
+    background-color: transparent !important;
+}

@@ -18,3 +18,7 @@ export const SKILLS = [
   {title:'Problem Solving',subtitle:'Excellent analytical and debugging skills, focused on delivering efficient solutions.'},
   {title:'Cross-Functional Collaboration',subtitle:'Proven ability to work effectively with diverse teams to achieve project goals.'},
 ]
+
+export const PROJECTS = [
+  {title:'',subtitle:'',img:'',description:''},
+]
